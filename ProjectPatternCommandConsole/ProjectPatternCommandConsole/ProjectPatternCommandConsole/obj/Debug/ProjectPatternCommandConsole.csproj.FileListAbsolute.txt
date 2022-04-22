@@ -1,0 +1,7 @@
+D:\!PI-224\ProjectPatternCommandConsole\ProjectPatternCommandConsole\bin\Debug\ProjectPatternCommandConsole.exe.config
+D:\!PI-224\ProjectPatternCommandConsole\ProjectPatternCommandConsole\bin\Debug\ProjectPatternCommandConsole.exe
+D:\!PI-224\ProjectPatternCommandConsole\ProjectPatternCommandConsole\bin\Debug\ProjectPatternCommandConsole.pdb
+D:\!PI-224\ProjectPatternCommandConsole\ProjectPatternCommandConsole\obj\Debug\ProjectPatternCommandConsole.csprojAssemblyReference.cache
+D:\!PI-224\ProjectPatternCommandConsole\ProjectPatternCommandConsole\obj\Debug\ProjectPatternCommandConsole.csproj.CoreCompileInputs.cache
+D:\!PI-224\ProjectPatternCommandConsole\ProjectPatternCommandConsole\obj\Debug\ProjectPatternCommandConsole.exe
+D:\!PI-224\ProjectPatternCommandConsole\ProjectPatternCommandConsole\obj\Debug\ProjectPatternCommandConsole.pdb
